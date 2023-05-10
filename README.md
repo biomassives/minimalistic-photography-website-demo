@@ -1,6 +1,14 @@
-# A Minimalistic Photography Portfolio website using Next.js 13 and DatoCMS
+# exoworld.life  
 
-This example showcases a TypeScript Next.js 13 website with App Router (app) — using [DatoCMS](https://www.datocms.com/) as the data source.
+
+
+TypeScript 
+Next.js 13 
+App Router
+[DatoCMS](https://www.datocms.com/) as data source.
+
+
+## kudos to the builder of this amazing open source code, with great tooling for data sourcing and adaptability 
 
 It uses the awesome [@graphql-codegen/client-preset](https://the-guild.dev/graphql/codegen/plugins/presets/preset-client) package to offer typed GraphQL queries.
 
@@ -27,6 +35,8 @@ Have a look at the end result live:
 :warning: Remember to setup FormSpark (see step below), as it's needed for the contact form to work!
 
 ### Setup FormSpark
+
+-- note i have not gotten this to work yet - greg  !( issue.. )
 
 1. Signup to https://formspark.io/
 2. Create a new form - the first 250 form submissions are free!
